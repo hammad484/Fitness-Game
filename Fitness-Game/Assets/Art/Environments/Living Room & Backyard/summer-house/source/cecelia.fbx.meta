@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: d34f647cd2ee06142bbbbbbc9b28ce4b
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom
+    second: {fileID: 2100000, guid: 363bf542cd671e8439cbe6b9d5bcf499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_sink
+    second: {fileID: 2100000, guid: 4b227d3b666b01547adcaf46d1f25cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_01
+    second: {fileID: 2100000, guid: 16338834abfe25342875b15533847fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_02
+    second: {fileID: 2100000, guid: 924ebb98dd5b3124487a2d2ce45625a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_floor
+    second: {fileID: 2100000, guid: e98f190ee260d5a429a27bedb0f9ebc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_metal
+    second: {fileID: 2100000, guid: 3689d7865c81bfc4d9cab401a076ccba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concret_tile
+    second: {fileID: 2100000, guid: 672b95f98e70ace48aa44b71aec2dcd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete_wall
+    second: {fileID: 2100000, guid: fe1ef65d20ee1f942951cb21d72dcfb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive_Mirror
+    second: {fileID: 2100000, guid: fe0d5a987a15f804e869f613759a9c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive_Spotlight
+    second: {fileID: 2100000, guid: 359c04b37ab9fd64094678a289d12192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive_SquareSpotlight
+    second: {fileID: 2100000, guid: ffaa6a255a6a71b4c84dd516218f5626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive_Wall_lights
+    second: {fileID: 2100000, guid: 585f18f1a4792674cbdbe42d3f96a212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garage_floor
+    second: {fileID: 2100000, guid: fe2887c8553ae2a429d7d87e1dee0262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garage_wall_deco
+    second: {fileID: 2100000, guid: 78f7aa0d776e56c4faeb046f69aad7f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gardern_wall
+    second: {fileID: 2100000, guid: 5c9c711d6eb5f13439fab0cf521fad73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Bedroom_bedroom_props
+    second: {fileID: 2100000, guid: 2eb4040c418229b4babd10bbbcc54aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Corridor_roof
+    second: {fileID: 2100000, guid: e47bb4f61b1ab77428a98856656f557a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_House
+    second: {fileID: 2100000, guid: 174940d405d32dc4db5b231f82bfd67a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_ShowerDoor
+    second: {fileID: 2100000, guid: d80c9130eb4ee9f41a39f39c3bcfc52f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: b885920e7f0acb84aa10fb84757860f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_ground
+    second: {fileID: 2100000, guid: d088cfe09ea7bf04688c54ffdfc1b042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_floor
+    second: {fileID: 2100000, guid: 037bfd4777414e34abce1d80daecca59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: afd652e0deedb774bafddb6930b8d8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: d768277558d87c14a9a364326ffa398c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_wall
+    second: {fileID: 2100000, guid: c685c608549bd2d4187403241330b91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_lights
+    second: {fileID: 2100000, guid: 2884d7d373cdc8042a2198b94844fbbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_wall
+    second: {fileID: 2100000, guid: bf66897a5f8b4724f92d1cc102326171, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom props_Bedroom 01_BaseColor
+    second: {fileID: 2800000, guid: 07ea953593da52c4f93bd9de0f92a2ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom props_Bedroom 02_BaseColor
+    second: {fileID: 2800000, guid: e8126d06d364a4c4aa0979087ddd93a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Bedroom floor_BaseColor
+    second: {fileID: 2800000, guid: 1d0ad8d74b64de24e8f70ab0e6525a6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Black metal_BaseColor
+    second: {fileID: 2800000, guid: f2794eda5705b8846b8bfd4acaa4d895, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Concret tile_BaseColor
+    second: {fileID: 2800000, guid: a8897d592c8acce44ae3589100c57f02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Concrete wall_BaseColor
+    second: {fileID: 2800000, guid: 59e83f1138249af4eab035ee1b5f4435, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Garage floor_BaseColor
+    second: {fileID: 2800000, guid: be1ccfec2802c5e47a22a8a829fa3f26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Garage wall deco_BaseColor
+    second: {fileID: 2800000, guid: 72eaf6c6317c0c84ca87dd74626104b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Gardern wall_BaseColor
+    second: {fileID: 2800000, guid: 7f885a76467541844b70d1601322b89d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Grass ground_BaseColor
+    second: {fileID: 2800000, guid: 196c65481a7e33a4fa7d5f76d3545185, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Grass_BaseColor
+    second: {fileID: 2800000, guid: 68926e232a61d6546b4e96771254950e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Grass_BaseColor_alpha
+    second: {fileID: 2800000, guid: 171ace312c9359647b2817762df06005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Interior floor_BaseColor
+    second: {fileID: 2800000, guid: f2a8a17228c962c469f06739dcb59f1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Road_BaseColor
+    second: {fileID: 2800000, guid: 16cf59a38e325f34480a6eaca7b749ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_White wall_BaseColor
+    second: {fileID: 2800000, guid: b8ad9e4fd3074854fa0237a8f3d9c219, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior props 01_Bathroom sink_BaseColor
+    second: {fileID: 2800000, guid: a109f52d80df842419137c565da931f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior props 01_Bathroom_BaseColor
+    second: {fileID: 2800000, guid: 4519b9759578edb48938a429bdc1e98f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior props 01_Leaves_BaseColor
+    second: {fileID: 2800000, guid: 85ef6a7cecc980f4a9c4e3cb0576bd87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior props 01_TV wall_BaseColor
+    second: {fileID: 2800000, guid: 2d6eca6e17f9b134c88b93e655a8b9af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior props 01_Top lights_BaseColor
+    second: {fileID: 2800000, guid: e9ac01988c7351546b4b4b2d72961048, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.7
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0069999998
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

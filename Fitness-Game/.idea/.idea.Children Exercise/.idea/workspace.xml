@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9cfeecc-fb40-4b52-ae9f-35e33abe1b58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Controller Scripts/ExerciseCharacterController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+              <folding>
+                <marker date="1678891126123" expanded="false" signature="6:104" ph="..." />
+                <marker date="1678891126123" expanded="true" signature="162:2020" ph="{...}" />
+                <marker date="1678891126123" expanded="false" signature="169:531" ph="Instance" />
+                <marker date="1678891126123" expanded="true" signature="300:515" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="318:509" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="363:468" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="790:829" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="900:1041" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1085:1183" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1216:1569" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1279:1563" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1347:1422" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1480:1553" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1597:2017" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1678:1734" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1813:1870" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="1954:2011" ph="{...}" />
+                <marker date="1678891126123" expanded="true" signature="2044:2140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/IkManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+              <folding>
+                <marker date="1678886275421" expanded="false" signature="6:118" ph="..." />
+                <marker date="1678886275421" expanded="true" signature="158:2380" ph="{...}" />
+                <marker date="1678886275421" expanded="false" signature="162:472" ph="Instance" />
+                <marker date="1678886275421" expanded="true" signature="258:455" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="276:449" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="321:408" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="580:621" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="650:1162" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="1191:1812" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="1839:2375" ph="{...}" />
+                <marker date="1678886275421" expanded="true" signature="2419:2570" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKEffector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2011">
+              <caret line="163" column="52" selection-start-line="163" selection-start-column="52" selection-end-line="163" selection-end-column="52" />
+              <folding>
+                <marker date="1634736302000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1634736302000" expanded="true" signature="75:11444" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="79:164" ph="///  Effector for manipulating node based %IK solvers. ... " />
+                <marker date="1634736302000" expanded="true" signature="213:11442" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="220:2241" ph="Main Interface" />
+                <marker date="1634736302000" expanded="true" signature="246:302" ph="/// Gets the main node. ... " />
+                <marker date="1634736302000" expanded="true" signature="359:417" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="421:499" ph="/// The node transform used by this effector. ... " />
+                <marker date="1634736302000" expanded="true" signature="527:648" ph="/// The target Transform (optional, you can use just the position and rotation instead). ... " />
+                <marker date="1634736302000" expanded="true" signature="678:735" ph="/// The position weight. ... " />
+                <marker date="1634736302000" expanded="true" signature="787:844" ph="/// The rotation weight. ... " />
+                <marker date="1634736302000" expanded="true" signature="896:970" ph="/// The effector position in world space. ... " />
+                <marker date="1634736302000" expanded="true" signature="1015:1118" ph="/// The effector rotation relative to default rotation in world space. ... " />
+                <marker date="1634736302000" expanded="true" signature="1173:1331" ph="/// The position offset in world space. positionOffset will be reset to Vector3.zero each frame after the solver  ... " />
+                <marker date="1634736302000" expanded="true" signature="1367:1446" ph="/// Is this the last effector of a node chain? ... " />
+                <marker date="1634736302000" expanded="true" signature="1499:1607" ph="/// If false, child nodes will be ignored by this effector (if it has any). ... " />
+                <marker date="1634736302000" expanded="true" signature="1649:1794" ph="/// Keeps the node position relative to the triangle defined by the plane bones (applies only to end-effectors). ... " />
+                <marker date="1634736302000" expanded="true" signature="1863:1955" ph="/// Pins the effector to the animated position of its bone. ... " />
+                <marker date="1634736302000" expanded="true" signature="2024:2212" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3425:3484" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3490:3557" ph="/* Determines whether this IKEffector is valid or not. ... */" />
+                <marker date="1634736302000" expanded="true" signature="3617:4921" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3641:3708" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3751:3889" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3930:4039" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="3951:4034" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4083:4264" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4121:4259" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4332:4476" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4544:4688" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4756:4900" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="4925:4982" ph="/* Initiate the effector, set default values ... */" />
+                <marker date="1634736302000" expanded="true" signature="5031:6080" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="5402:5509" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="5636:6047" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="5757:6015" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="5880:6009" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="6086:6119" ph="/* Clear node offset ... */" />
+                <marker date="1634736302000" expanded="true" signature="6171:6387" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="6292:6383" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="6391:6456" ph="/* Set the position and rotation to match the target ... */" />
+                <marker date="1634736302000" expanded="true" signature="6485:6583" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="6589:6632" ph="/* Presolving, applying offset ... */" />
+                <marker date="1634736302000" expanded="true" signature="6683:8895" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="8371:8634" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="8421:8629" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="8721:8867" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="8899:8944" ph="/* Called after writing the pose ... */" />
+                <marker date="1634736302000" expanded="true" signature="8973:9012" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="9016:9067" ph="/* Rotation of plane nodes in the solver ... */" />
+                <marker date="1634736302000" expanded="true" signature="9131:9722" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="9486:9654" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="9726:9774" ph="/* Manipulating node solverPosition ... */" />
+                <marker date="1634736302000" expanded="true" signature="9821:10453" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="9843:9959" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="10196:10449" ph="{...}" />
+                <marker date="1634736302000" expanded="true" signature="10457:10516" ph="/* Gets the starting position of the iteration ... */" />
+                <marker date="1634736302000" expanded="true" signature="10608:11439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5232">
+              <caret line="328" column="21" selection-start-line="328" selection-start-column="21" selection-end-line="328" selection-end-column="21" />
+              <folding>
+                <marker date="1634736330000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1634736330000" expanded="true" signature="75:12909" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="79:157" ph="/// The base abstract class for all %IK solvers ... " />
+                <marker date="1634736330000" expanded="true" signature="213:12907" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="224:11012" ph="Main Interface" />
+                <marker date="1634736330000" expanded="true" signature="307:393" ph="/// Determines whether this instance is valid or not. ... " />
+                <marker date="1634736330000" expanded="true" signature="418:489" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="493:629" ph="/// Determines whether this instance is valid or not. If returns false, also fills in an error message. ... " />
+                <marker date="1634736330000" expanded="true" signature="687:838" ph="/// Initiate the solver with specified root Transform. Use only if this %IKSolver is not a member of an %IK compo ... " />
+                <marker date="1634736330000" expanded="true" signature="878:1372" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="1164:1221" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="1378:1589" ph="/// Updates the %IK solver. Use only if this %IKSolver is not a member of an %IK component or the %IK component h ... " />
+                <marker date="1634736330000" expanded="true" signature="1613:1867" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="1873:1927" ph="/// The %IK position. ... " />
+                <marker date="1634736330000" expanded="true" signature="2044:2140" ph="/* The %IK position weight or the master weight of the solver. ... */" />
+                <marker date="1634736330000" expanded="true" signature="2202:2376" ph="/// Gets the %IK position. NOTE: You are welcome to read IKPosition directly, this method is here only to match t ... " />
+                <marker date="1634736330000" expanded="true" signature="2418:2445" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="2451:2624" ph="/// Sets the %IK position. NOTE: You are welcome to set IKPosition directly, this method is here only to match th ... " />
+                <marker date="1634736330000" expanded="true" signature="2671:2702" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="2708:2895" ph="/// Gets the %IK position weight. NOTE: You are welcome to read IKPositionWeight directly, this method is here on ... " />
+                <marker date="1634736330000" expanded="true" signature="2933:2966" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="2972:3158" ph="/// Sets the %IK position weight. NOTE: You are welcome to set IKPositionWeight directly, this method is here onl ... " />
+                <marker date="1634736330000" expanded="true" signature="3207:3263" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="3269:3330" ph="/// Gets the root Transform. ... " />
+                <marker date="1634736330000" expanded="true" signature="3360:3381" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="3391:3527" ph="/// Gets a value indicating whether this &lt;see cref=&quot;IKSolver&quot;/&gt; has successfully initiated. ... " />
+                <marker date="1634736330000" expanded="true" signature="3583:3659" ph="/// Gets all the points used by the solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="3713:3794" ph="/// Gets the point with the specified Transform. ... " />
+                <marker date="1634736330000" expanded="true" signature="3862:3966" ph="/// Fixes all the Transforms used by the solver to their initial state. ... " />
+                <marker date="1634736330000" expanded="true" signature="4010:4111" ph="/// Stores the default local state for the bones used by the solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="4166:4281" ph="/// The most basic element type in the %IK chain that all other types extend from. ... " />
+                <marker date="1634736330000" expanded="true" signature="4327:6448" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="4333:4386" ph="/// The transform. ... " />
+                <marker date="1634736330000" expanded="true" signature="4421:4498" ph="/// The weight of this bone in the solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="4550:4624" ph="/// Virtual position in the %IK solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="4662:4736" ph="/// Virtual rotation in the %IK solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="4799:4882" ph="/// The default local position of the Transform. ... " />
+                <marker date="1634736330000" expanded="true" signature="4926:5009" ph="/// The default local rotation of the Transform. ... " />
+                <marker date="1634736330000" expanded="true" signature="5057:5140" ph="/// Stores the default local state of the point. ... " />
+                <marker date="1634736330000" expanded="true" signature="5181:5291" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="5296:5382" ph="/// Fixes the transform to its default local state. ... " />
+                <marker date="1634736330000" expanded="true" signature="5413:5629" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="5634:5717" ph="/// Updates the solverPosition (in world space). ... " />
+                <marker date="1634736330000" expanded="true" signature="5756:5803" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="5808:5891" ph="/// Updates the solverPosition (in local space). ... " />
+                <marker date="1634736330000" expanded="true" signature="5935:5987" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="5992:6084" ph="/// Updates the solverPosition/Rotation (in world space). ... " />
+                <marker date="1634736330000" expanded="true" signature="6120:6208" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="6213:6305" ph="/// Updates the solverPosition/Rotation (in local space). ... " />
+                <marker date="1634736330000" expanded="true" signature="6346:6444" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="6454:6582" ph="/// %Bone type of element in the %IK chain. Used in the case of skeletal Transform hierarchies. ... " />
+                <marker date="1634736330000" expanded="true" signature="6634:9479" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="6643:6705" ph="/// The length of the bone. ... " />
+                <marker date="1634736330000" expanded="true" signature="6733:6796" ph="/// The sqr mag of the bone. ... " />
+                <marker date="1634736330000" expanded="true" signature="6824:6895" ph="/// Local axis to target/child bone. ... " />
+                <marker date="1634736330000" expanded="true" signature="6944:7052" ph="/// Gets the rotation limit component from the Transform if there is any. ... " />
+                <marker date="1634736330000" expanded="true" signature="7091:7384" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="7101:7302" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="7311:7379" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="7393:7463" ph="/* Swings the Transform's axis towards the swing target ... */" />
+                <marker date="1634736330000" expanded="true" signature="7525:7859" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="7688:7758" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="7960:8471" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="8162:8300" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="8212:8281" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="8353:8466" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="8476:8567" ph="/* Swings the Transform's axis towards the swing target on the XY plane only ... */" />
+                <marker date="1634736330000" expanded="true" signature="8631:9024" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="9032:9087" ph="/* Moves the bone to the solver position ... */" />
+                <marker date="1634736330000" expanded="true" signature="9125:9172" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="9238:9276" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="9332:9396" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="9485:9616" ph="/// %Node type of element in the %IK chain. Used in the case of mixed/non-hierarchical %IK systems ... " />
+                <marker date="1634736330000" expanded="true" signature="9668:10300" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="9677:9739" ph="/// Distance to child node. ... " />
+                <marker date="1634736330000" expanded="true" signature="9767:9835" ph="/// The effector position weight. ... " />
+                <marker date="1634736330000" expanded="true" signature="9879:9947" ph="/// The effector rotation weight. ... " />
+                <marker date="1634736330000" expanded="true" signature="9991:10046" ph="/// Position offset. ... " />
+                <marker date="1634736330000" expanded="true" signature="10138:10176" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="10232:10296" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="10304:10372" ph="/// Delegates solver update events. ... " />
+                <marker date="1634736330000" expanded="true" signature="10416:10487" ph="/// Delegates solver iteration events. ... " />
+                <marker date="1634736330000" expanded="true" signature="10540:10613" ph="/// Called before initiating the solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="10655:10727" ph="/// Called after initiating the solver. ... " />
+                <marker date="1634736330000" expanded="true" signature="10770:10830" ph="/// Called before updating. ... " />
+                <marker date="1634736330000" expanded="true" signature="10870:10943" ph="/// Called after writing the solved pose ... " />
+                <marker date="1634736330000" expanded="true" signature="11245:11287" ph="{...}" />
+                <marker date="1634736330000" expanded="false" signature="11291:12904" ph="Class Methods" />
+                <marker date="1634736330000" expanded="true" signature="11316:11407" ph="/// Checks if an array of objects contains any duplicates. ... " />
+                <marker date="1634736330000" expanded="true" signature="11470:11684" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="11514:11664" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="11562:11659" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="11688:11746" ph="/* Make sure the bones are in valid Hierarchy ... */" />
+                <marker date="1634736330000" expanded="true" signature="11808:12055" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="11852:12035" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="12004:12030" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="12192:12876" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="12261:12385" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="12432:12850" ph="{...}" />
+                <marker date="1634736330000" expanded="true" signature="12464:12778" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/LevelController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+              <folding>
+                <marker date="1678883333330" expanded="false" signature="7:59" ph="..." />
+                <marker date="1678883333330" expanded="true" signature="105:5824" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1027:1065" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1090:1397" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1439:3013" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1507:1576" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1589:1659" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="1723:1981" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="2046:2295" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="2363:2582" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="3047:3853" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="3110:3178" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="3191:3847" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="3894:4425" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="3965:4419" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="4226:4347" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="4470:5167" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="4862:5006" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="5060:5161" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="5203:5503" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="5528:5605" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="5630:5709" ph="{...}" />
+                <marker date="1678883333330" expanded="true" signature="5737:5822" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/FullBodyBipedIK.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-992">
+              <caret line="56" column="36" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="36" />
+              <folding>
+                <marker date="1634736420000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1634736420000" expanded="true" signature="75:6206" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="79:167" ph="/// Full Body %IK System designed specifically for bipeds ... " />
+                <marker date="1634736420000" expanded="true" signature="381:6204" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="488:574" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="696:832" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="963:1039" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="1180:1256" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="1352:1433" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="1559:1693" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="1697:1853" ph="/// The biped definition. Don't change refences directly in runtime, use SetReferences(BipedReferences references ... " />
+                <marker date="1634736420000" expanded="true" signature="1920:1986" ph="/// The FullBodyBiped %IK solver. ... " />
+                <marker date="1634736420000" expanded="true" signature="2059:2308" ph="/// Sets the solver to new biped references. ... " />
+                <marker date="1634736420000" expanded="true" signature="2385:2477" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="2520:2555" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="2559:2664" ph="/// Checks the biped references for errors. Returns true if error found. ... " />
+                <marker date="1634736420000" expanded="true" signature="2720:3608" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="2922:3036" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3073:3171" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3221:3583" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3308:3408" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3359:3402" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3432:3578" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="3614:3803" ph="/// Check for possible warnings with the biped references setup. Returns true if warning found. The solver can st ... " />
+                <marker date="1634736420000" expanded="true" signature="3863:5640" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="4348:4853" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="5134:5618" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="5746:5798" ph="{...}" />
+                <marker date="1634736420000" expanded="true" signature="5902:6201" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/IK.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <marker date="1634736472000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1634736472000" expanded="true" signature="75:1186" ph="{...}" />
+                <marker date="1634736472000" expanded="true" signature="79:160" ph="/// Base abstract class for %IK solver components. ... " />
+                <marker date="1634736472000" expanded="true" signature="202:1184" ph="{...}" />
+                <marker date="1634736472000" expanded="false" signature="209:391" ph="Main Interface" />
+                <marker date="1634736472000" expanded="true" signature="237:318" ph="/// Gets the %IK component's solver as IKSolver. ... " />
+                <marker date="1634736472000" expanded="true" signature="397:553" ph="/* Updates the solver. If you need full control of the execution order of your IK solvers, disable this script an ... */" />
+                <marker date="1634736472000" expanded="true" signature="595:720" ph="{...}" />
+                <marker date="1634736472000" expanded="true" signature="726:766" ph="/* Initiates the %IK solver ... */" />
+                <marker date="1634736472000" expanded="true" signature="810:897" ph="{...}" />
+                <marker date="1634736472000" expanded="true" signature="941:1021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBodyBiped.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3836">
+              <caret line="343" column="52" selection-start-line="343" selection-start-column="43" selection-end-line="343" selection-end-column="52" />
+              <folding>
+                <marker date="1634736425000" expanded="false" signature="6:58" ph="..." />
+                <marker date="1634736425000" expanded="true" signature="89:20292" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="93:162" ph="/// Full body biped IK effector types. ... " />
+                <marker date="1634736425000" expanded="true" signature="221:342" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="345:411" ph="/// Full body biped IK chain types. ... " />
+                <marker date="1634736425000" expanded="true" signature="467:516" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="519:598" ph="/// FBIK solver specialized to biped characters. ... " />
+                <marker date="1634736425000" expanded="true" signature="677:20290" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="684:15854" ph="Main Interface" />
+                <marker date="1634736425000" expanded="true" signature="712:778" ph="/// The central root node (body). ... " />
+                <marker date="1634736425000" expanded="true" signature="810:882" ph="/// The stiffness of spine constraints. ... " />
+                <marker date="1634736425000" expanded="true" signature="941:1059" ph="/// Weight of hand effectors pulling the body vertically (relative to root rotation). ... " />
+                <marker date="1634736425000" expanded="true" signature="1121:1241" ph="/// Weight of hand effectors pulling the body horizontally (relative to root rotation). ... " />
+                <marker date="1634736425000" expanded="true" signature="1306:1366" ph="/// Gets the body effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="1461:1530" ph="/// Gets the left shoulder effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="1641:1711" ph="/// Gets the right shoulder effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="1824:1890" ph="/// Gets the left thigh effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="1995:2062" ph="/// Gets the right thigh effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="2169:2234" ph="/// Gets the left hand effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="2337:2403" ph="/// Gets the right hand effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="2508:2573" ph="/// Gets the left foot effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="2676:2742" ph="/// Gets the right foot effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="2850:2911" ph="/// Gets the left arm chain. ... " />
+                <marker date="1634736425000" expanded="true" signature="2974:3036" ph="/// Gets the right arm chain. ... " />
+                <marker date="1634736425000" expanded="true" signature="3100:3161" ph="/// Gets the left leg chain. ... " />
+                <marker date="1634736425000" expanded="true" signature="3224:3286" ph="/// Gets the right leg chain. ... " />
+                <marker date="1634736425000" expanded="true" signature="3351:3417" ph="/// Gets the left arm IK mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="3493:3560" ph="/// Gets the right arm IK mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="3637:3703" ph="/// Gets the left leg IK mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="3779:3846" ph="/// Gets the right leg IK mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="3923:3985" ph="/// Gets the head IK mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="4059:4139" ph="/// Sets chain weights for the specified chain. ... " />
+                <marker date="1634736425000" expanded="true" signature="4222:4285" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="4291:4377" ph="/// Sets effector weights for the specified effector. ... " />
+                <marker date="1634736425000" expanded="true" signature="4487:4650" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="4656:4719" ph="///  Gets the chain of a limb. ... " />
+                <marker date="1634736425000" expanded="true" signature="4770:5025" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="4785:5005" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="5031:5111" ph="///  Gets the chain of the specified effector.  ... " />
+                <marker date="1634736425000" expanded="true" signature="5172:5743" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="5194:5723" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="5749:5814" ph="///  Gets the effector of type.  ... " />
+                <marker date="1634736425000" expanded="true" signature="5879:6486" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="5901:6466" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="6490:6555" ph="///  Gets the effector of type.  ... " />
+                <marker date="1634736425000" expanded="true" signature="6613:6884" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="6628:6864" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="6890:6962" ph="/// Gets the limb mapping for the limb. ... " />
+                <marker date="1634736425000" expanded="true" signature="7027:7314" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="7046:7294" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="7318:7399" ph="/// Gets the limb mapping for the effector type. ... " />
+                <marker date="1634736425000" expanded="true" signature="7470:8053" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="7492:8049" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8059:8119" ph="/// Gets the spine mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="8162:8191" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8197:8256" ph="/// Gets the head mapping. ... " />
+                <marker date="1634736425000" expanded="true" signature="8297:8329" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8335:8407" ph="/// Gets the bend constraint of a limb. ... " />
+                <marker date="1634736425000" expanded="true" signature="8477:8795" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8495:8775" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8850:9450" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="8930:9020" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="9299:9429" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="9454:9740" ph="/// Sets up the solver to BipedReferences and reinitiates (if in runtime). ... " />
+                <marker date="1634736425000" expanded="true" signature="9826:14257" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="10084:10157" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="10112:10152" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="10783:10954" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="12137:12495" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="12685:12736" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="12770:12850" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="13120:13362" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="13229:13280" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="13496:13742" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="13538:13633" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="14261:14326" ph="/* Tries to guess which bone should be the root node ... */" />
+                <marker date="1634736425000" expanded="true" signature="14400:15376" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="15011:15329" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="15227:15324" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="15380:15508" ph="/// Sets the bend directions of the limbs to the local axes specified by BipedLimbOrientations. ... " />
+                <marker date="1634736425000" expanded="true" signature="15568:15825" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="15966:16067" ph="/* Sets the bend direction of a limb to the local axes specified by the LimbOrientation. ... */" />
+                <marker date="1634736425000" expanded="true" signature="16183:16889" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="16300:16592" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="16962:17143" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="17219:17403" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="17478:17567" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="17606:17982" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="17986:18033" ph="/* Pulling the body with the hands ... */" />
+                <marker date="1634736425000" expanded="true" signature="18060:18437" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="18191:18433" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="18441:18494" ph="/* Get pull offset of the body effector. ... */" />
+                <marker date="1634736425000" expanded="true" signature="18529:18821" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="18825:18866" ph="/* Get pull offset of a hand ... */" />
+                <marker date="1634736425000" expanded="true" signature="18953:19376" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="19454:20137" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="19479:19819" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="20029:20094" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="20177:20286" ph="{...}" />
+                <marker date="1634736425000" expanded="true" signature="20203:20260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKMappingLimb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1070">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1634736477000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1634736477000" expanded="true" signature="75:6039" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="79:180" ph="/// Maps a 3-segmented bone hierarchy to a node chain of an %IK Solver ... " />
+                <marker date="1634736477000" expanded="true" signature="243:6037" ph="{...}" />
+                <marker date="1634736477000" expanded="false" signature="250:2933" ph="Main Interface" />
+                <marker date="1634736477000" expanded="true" signature="276:331" ph="/// Limb Bone Map type ... " />
+                <marker date="1634736477000" expanded="true" signature="382:427" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="431:504" ph="/// The optional parent bone (clavicle). ... " />
+                <marker date="1634736477000" expanded="true" signature="538:611" ph="/// The first bone (upper arm or thigh). ... " />
+                <marker date="1634736477000" expanded="true" signature="640:711" ph="/// The second bone (forearm or calf). ... " />
+                <marker date="1634736477000" expanded="true" signature="740:807" ph="/// The third bone (hand or foot). ... " />
+                <marker date="1634736477000" expanded="true" signature="836:951" ph="/// The weight of maintaining the third bone's rotation as it was in the animation ... " />
+                <marker date="1634736477000" expanded="true" signature="1011:1167" ph="/// The weight of mapping the limb to its IK pose. This can be useful if you want to disable the effect of IK for ... " />
+                <marker date="1634736477000" expanded="true" signature="1238:1380" ph="/// Disable this to maintain original sampled rotations of the limb bones relative to each other. ... " />
+                <marker date="1634736477000" expanded="true" signature="1471:1566" ph="/// Determines whether this IKMappingLimb is valid ... " />
+                <marker date="1634736477000" expanded="true" signature="1641:1916" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="1920:1997" ph="/// Gets the bone map of the specified bone. ... " />
+                <marker date="1634736477000" expanded="true" signature="2047:2349" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="2068:2345" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="2353:2471" ph="/// Makes the limb mapped to the specific local directions of the bones. Added in 0.3 ... " />
+                <marker date="1634736477000" expanded="true" signature="2535:2902" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="3201:3252" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="3359:3466" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="3509:3695" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="3729:3894" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="3900:3947" ph="/* Initiating and setting defaults ... */" />
+                <marker date="1634736477000" expanded="true" signature="4005:4773" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="4779:4840" ph="/* Presolving the bones and maintaining rotation ... */" />
+                <marker date="1634736477000" expanded="true" signature="4866:5156" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="5222:6034" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="5336:5633" ph="{...}" />
+                <marker date="1634736477000" expanded="true" signature="5366:5545" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/FBIKChain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2144">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1634736453000" expanded="false" signature="6:58" ph="..." />
+                <marker date="1634736453000" expanded="true" signature="89:18094" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="93:165" ph="/// A chain of bones in IKSolverFullBody. ... " />
+                <marker date="1634736453000" expanded="true" signature="213:18092" ph="{...}" />
+                <marker date="1634736453000" expanded="false" signature="220:5003" ph="Main Interface" />
+                <marker date="1634736453000" expanded="true" signature="248:339" ph="/// Linear constraint between child chains of a FBIKChain. ... " />
+                <marker date="1634736453000" expanded="true" signature="395:3156" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="401:460" ph="/// The push elasticity. ... " />
+                <marker date="1634736453000" expanded="true" signature="501:560" ph="/// The pull elasticity. ... " />
+                <marker date="1634736453000" expanded="true" signature="601:655" ph="/// The first bone. ... " />
+                <marker date="1634736453000" expanded="true" signature="704:759" ph="/// The second bone. ... " />
+                <marker date="1634736453000" expanded="true" signature="1205:1234" ph="/* Constructor ... */" />
+                <marker date="1634736453000" expanded="true" signature="1349:1487" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="1495:1538" ph="/* Initiating the constraint ... */" />
+                <marker date="1634736453000" expanded="true" signature="1588:1717" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="1725:1815" ph="/* Updating nominal distance because it might have changed in the animation ... */" />
+                <marker date="1634736453000" expanded="true" signature="1867:2321" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="2113:2253" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="2329:2369" ph="/* Solving the constraint ... */" />
+                <marker date="1634736453000" expanded="true" signature="2416:3152" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="2768:2889" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="3206:3245" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="3249:3368" ph="/// The pin weight. If closer to 1, the chain will be less influenced by child chains. ... " />
+                <marker date="1634736453000" expanded="true" signature="3409:3485" ph="/// The weight of pulling the parent chain. ... " />
+                <marker date="1634736453000" expanded="true" signature="3532:3664" ph="/// The weight of the end-effector pushing the shoulder/thigh when the end-effector is close to it. ... " />
+                <marker date="1634736453000" expanded="true" signature="3706:3826" ph="/// The amount of push force transferred to the parent (from hand or foot to the body). ... " />
+                <marker date="1634736453000" expanded="true" signature="3875:3991" ph="/// Only used in 3 segmented chains, pulls the first node closer to the third node. ... " />
+                <marker date="1634736453000" expanded="true" signature="4041:4146" ph="/// Smoothing the effect of the Reach with the expense of some accuracy. ... " />
+                <marker date="1634736453000" expanded="true" signature="4208:4278" ph="/// Smoothing the effect of the Push. ... " />
+                <marker date="1634736453000" expanded="true" signature="4339:4400" ph="/// The nodes in this chain. ... " />
+                <marker date="1634736453000" expanded="true" signature="4458:4512" ph="/// The child chains. ... " />
+                <marker date="1634736453000" expanded="true" signature="4553:4699" ph="/// The child constraints are used for example for fixing the distance between left upper arm and right upper arm ... " />
+                <marker date="1634736453000" expanded="true" signature="4772:4907" ph="/// Gets the bend constraint (if this chain has 3 segments). ... " />
+                <marker date="1634736453000" expanded="true" signature="5425:5533" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="5539:5598" ph="/* Set nodes to the following bone transforms. ... */" />
+                <marker date="1634736453000" expanded="true" signature="5657:5826" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="5763:5822" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="5879:6002" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="5923:5984" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6006:6058" ph="/* Check if this chain is valid or not. ... */" />
+                <marker date="1634736453000" expanded="true" signature="6101:6377" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6129:6200" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6274:6353" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6383:6420" ph="/* Initiating the chain. ... */" />
+                <marker date="1634736453000" expanded="true" signature="6469:7081" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6538:6595" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="6858:7010" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="7085:7126" ph="/* Before updating the chain ... */" />
+                <marker date="1634736453000" expanded="true" signature="7190:8649" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="7265:7348" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="7432:8645" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="7594:8095" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="7955:8089" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="8387:8474" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="8783:9728" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="8882:9224" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="9052:9219" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="9274:9513" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="9488:9508" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="9541:9724" ph="{...}" />
+                <marker date="1634736453000" expanded="false" signature="9732:15720" ph="Recursive Methods" />
+                <marker date="1634736453000" expanded="true" signature="9763:9793" ph="/* Reaching limbs ... */" />
+                <marker date="1634736453000" expanded="true" signature="9839:10854" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="10527:10659" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="10858:10911" ph="/* End-effectors pushing the first nodes ... */" />
+                <marker date="1634736453000" expanded="true" signature="10959:12026" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="11075:11171" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="11788:11900" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="12030:12162" ph="/* Applying trigonometric IK solver on the 3 segmented chains to relieve tension from the solver and increase acc ... */" />
+                <marker date="1634736453000" expanded="true" signature="12258:13404" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="13408:13455" ph="/* Stage 1 of the FABRIK algorithm ... */" />
+                <marker date="1634736453000" expanded="true" signature="13502:14684" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="13714:13790" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="14072:14538" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="14204:14379" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="14690:14738" ph="/* Stage 2 of the FABRIK algorithm. ... */" />
+                <marker date="1634736453000" expanded="true" signature="14803:15258" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="15024:15095" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="15262:15360" ph="/* Iterating child constraints and child chains to make sure they are not conflicting ... */" />
+                <marker date="1634736453000" expanded="true" signature="15423:15688" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="15537:15684" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="15724:15795" ph="/* Interpolates the joint position to match the bone's length ... */" />
+                <marker date="1634736453000" expanded="true" signature="15873:15930" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="15936:16040" ph="/* Calculates the bend direction based on the law of cosines (from IKSolverTrigonometric). ... */" />
+                <marker date="1634736453000" expanded="true" signature="16147:16469" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="16473:16517" ph="/* Satisfying child constraints ... */" />
+                <marker date="1634736453000" expanded="true" signature="16580:16685" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="16635:16681" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="16689:16735" ph="/* Solve simple linear constraint ... */" />
+                <marker date="1634736453000" expanded="true" signature="16848:17160" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="17166:17202" ph="/* FABRIK Forward reach ... */" />
+                <marker date="1634736453000" expanded="true" signature="17248:17565" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="17405:17561" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="17571:17608" ph="/* FABRIK Backward reach ... */" />
+                <marker date="1634736453000" expanded="true" signature="17656:18089" ph="{...}" />
+                <marker date="1634736453000" expanded="true" signature="17956:18085" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maintainhandrot</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Extensions/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Controller Scripts/ExerciseCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKMappingLimb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/DataController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/IkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/ItemData/LevelDataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Runtime/Control/ControlPlayableAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Scripts/BipedReferences.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBodyBiped.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/ApplicationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/FBIKChain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKEffector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/FullBodyBipedIK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/AnimationEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/IK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.recorder@3.0.3/Editor/Timeline/RecorderClip.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBodyBiped.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/AnimationEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/IkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Controller Scripts/ExerciseCharacterController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1927" />
+    <option name="width" value="1552" />
+    <option name="height" value="848" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9cfeecc-fb40-4b52-ae9f-35e33abe1b58" name="Default Changelist" comment="" />
+      <created>1678808923316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678808923316</updated>
+      <workItem from="1678808927251" duration="456000" />
+      <workItem from="1678872172111" duration="3149000" />
+      <workItem from="1678880896742" duration="5057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8662000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="0" width="1552" height="848" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32791328" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25285044" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/ApplicationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="27" />
+          <folding>
+            <marker date="1678784929046" expanded="true" signature="106:2788" ph="{...}" />
+            <marker date="1678784929046" expanded="false" signature="113:515" ph="Instance" />
+            <marker date="1678784929046" expanded="true" signature="289:498" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="307:492" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="352:451" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="545:586" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="664:807" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="858:994" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1043:1187" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1221:1329" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1364:1474" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1527:1669" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1705:1839" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="1883:2036" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="2083:2232" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="2274:2435" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="2471:2586" ph="{...}" />
+            <marker date="1678784929046" expanded="true" signature="2730:2780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/ItemData/LevelDataManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1678112874988" expanded="true" signature="6:78" ph="..." />
+            <marker date="1678112874988" expanded="true" signature="125:607" ph="{...}" />
+            <marker date="1678112874988" expanded="false" signature="129:460" ph="Instance" />
+            <marker date="1678112874988" expanded="true" signature="239:443" ph="{...}" />
+            <marker date="1678112874988" expanded="true" signature="257:437" ph="{...}" />
+            <marker date="1678112874988" expanded="true" signature="302:396" ph="{...}" />
+            <marker date="1678112874988" expanded="true" signature="563:604" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Scripts/BipedReferences.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <marker date="1634736308000" expanded="false" signature="6:58" ph="..." />
+            <marker date="1634736308000" expanded="true" signature="81:22732" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="85:180" ph="/// Contains references to bones common to all biped characters. ... " />
+            <marker date="1634736308000" expanded="true" signature="234:22730" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="241:13860" ph="Main Interface" />
+            <marker date="1634736308000" expanded="true" signature="269:402" ph="/// The root transform is the parent of all the biped's bones and should be located at ground level. ... " />
+            <marker date="1634736308000" expanded="true" signature="430:489" ph="/// The pelvis (hip) bone. ... " />
+            <marker date="1634736308000" expanded="true" signature="519:587" ph="/// The first bone of the left leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="620:689" ph="/// The second bone of the left leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="721:789" ph="/// The third bone of the left leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="821:890" ph="/// The first bone of the right leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="924:994" ph="/// The second bone of the right leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="1027:1096" ph="/// The third bone of the right leg. ... " />
+            <marker date="1634736308000" expanded="true" signature="1129:1197" ph="/// The first bone of the left arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1233:1302" ph="/// The second bone of the left arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1337:1405" ph="/// The third bone of the left arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1437:1506" ph="/// The first bone of the right arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1543:1613" ph="/// The second bone of the right arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1649:1718" ph="/// The third bone of the right arm. ... " />
+            <marker date="1634736308000" expanded="true" signature="1751:1797" ph="/// The head. ... " />
+            <marker date="1634736308000" expanded="true" signature="1825:1964" ph="/// The spine hierarchy. Should not contain any bone deeper in the hierarchy than the arms (neck or head). ... " />
+            <marker date="1634736308000" expanded="true" signature="2014:2060" ph="/// The eyes. ... " />
+            <marker date="1634736308000" expanded="true" signature="2110:2173" ph="/// Check for null references. ... " />
+            <marker date="1634736308000" expanded="true" signature="2205:2794" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="2214:2790" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="2800:2913" ph="/// Gets a value indicating whether this &lt;see cref=&quot;BipedReferences&quot;/&gt; is empty. ... " />
+            <marker date="1634736308000" expanded="true" signature="2936:2981" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="2945:2977" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="2988:3191" ph="/// Gets a value indicating whether this &lt;see cref=&quot;BipedReferences&quot;/&gt; is empty. If includeRoot is false, returns ... " />
+            <marker date="1634736308000" expanded="true" signature="3240:3836" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="3840:3939" ph="/// Returns true if the References contain the specified Transform ... " />
+            <marker date="1634736308000" expanded="true" signature="4009:4703" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="4707:4864" ph="/// Params for automatic biped recognition. (Using a struct here because I might need to add more parameters in t ... " />
+            <marker date="1634736308000" expanded="true" signature="4898:5357" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="4907:5012" ph="/// Should the immediate parent of the legs be included in the spine?. ... " />
+            <marker date="1634736308000" expanded="true" signature="5148:5238" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="5285:5353" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="5295:5348" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="5369:5491" ph="/// Automatically detects biped bones. Returns true if a valid biped has been referenced. ... " />
+            <marker date="1634736308000" expanded="true" signature="5617:6530" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="5842:5976" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="6147:6260" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="6330:6403" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="6451:6506" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="6536:6626" ph="/// Detects the references based on naming and hierarchy. ... " />
+            <marker date="1634736308000" expanded="true" signature="6756:9643" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="7929:8022" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8196:9185" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8327:9180" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8575:8814" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8654:8807" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8868:9174" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="8918:9167" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="9101:9159" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="9377:9639" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="9421:9634" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="9490:9628" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="9649:9745" ph="/// Fills in BipedReferences using Animator.GetBoneTransform(). ... " />
+            <marker date="1634736308000" expanded="true" signature="9878:11952" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="11517:11707" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="11749:11948" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="11956:12032" ph="/// Checks the setup for definite problems. ... " />
+            <marker date="1634736308000" expanded="true" signature="12118:12873" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="12149:12251" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="12877:12953" ph="/// Checks the setup for possible problems. ... " />
+            <marker date="1634736308000" expanded="true" signature="13043:13828" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="13989:14154" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="14351:14558" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="14385:14459" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="14753:15125" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="14977:15101" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="15374:15979" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="15493:15634" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="15696:15777" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="15880:15975" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16113:16242" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16396:17705" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16420:16507" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16531:16618" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16642:16729" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="16867:16994" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="17037:17155" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="17201:17319" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="17402:17680" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="17861:18378" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="17997:18353" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="18507:19911" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="18666:18813" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="18705:18808" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="18924:19043" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="19102:19311" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="19369:19886" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="19696:19881" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20042:20117" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20245:20787" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20387:20531" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20425:20526" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20644:20762" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="20917:20992" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="21159:21703" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="21500:21678" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="21857:22511" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="22254:22486" ph="{...}" />
+            <marker date="1634736308000" expanded="true" signature="22650:22727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/DataController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/AnimationEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="49" column="62" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="62" />
+          <folding>
+            <marker date="1678883369745" expanded="false" signature="6:92" ph="..." />
+            <marker date="1678883369745" expanded="true" signature="137:1435" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="346:525" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="603:1064" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="735:1058" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="968:1048" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="1110:1433" ph="{...}" />
+            <marker date="1678883369745" expanded="true" signature="1257:1426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2092">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1634736365000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736365000" expanded="true" signature="75:9803" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="79:293" ph="/// Generic FBIK solver. In each solver update, %IKSolverFullBody first reads the character's pose, then solves t ... " />
+            <marker date="1634736365000" expanded="true" signature="359:9801" ph="{...}" />
+            <marker date="1634736365000" expanded="false" signature="366:5034" ph="Main Interface" />
+            <marker date="1634736365000" expanded="true" signature="394:459" ph="/// Number of solver iterations. ... " />
+            <marker date="1634736365000" expanded="true" signature="508:565" ph="/// The root node chain. ... " />
+            <marker date="1634736365000" expanded="true" signature="615:666" ph="/// The effectors. ... " />
+            <marker date="1634736365000" expanded="true" signature="722:793" ph="/// Mapping spine bones to the solver. ... " />
+            <marker date="1634736365000" expanded="true" signature="857:932" ph="/// Mapping individual bones to the solver ... " />
+            <marker date="1634736365000" expanded="true" signature="997:1071" ph="/// Mapping 3 segment limbs to the solver ... " />
+            <marker date="1634736365000" expanded="true" signature="1136:1264" ph="/// If false, will not solve a FABRIK pass and the arms/legs will not be able to pull the body. ... " />
+            <marker date="1634736365000" expanded="true" signature="1303:1385" ph="/// Gets the effector of the specified Transform. ... " />
+            <marker date="1634736365000" expanded="true" signature="1431:1547" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="1553:1643" ph="/// Gets the chain that contains the specified Transform. ... " />
+            <marker date="1634736365000" expanded="true" signature="1693:1796" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="1800:1941" ph="/// Gets the index of the chain (in the IKSolverFullBody.chain array) that contains the specified Transform. ... " />
+            <marker date="1634736365000" expanded="true" signature="1990:2167" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2034:2148" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2231:2282" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2381:2532" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2581:2980" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2797:2953" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="2851:2948" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3047:3259" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3091:3239" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3314:4004" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3338:3422" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3450:3538" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="3582:3642" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="4008:4075" ph="/// Called before reading the pose ... " />
+            <marker date="1634736365000" expanded="true" signature="4113:4172" ph="/// Called before solving. ... " />
+            <marker date="1634736365000" expanded="true" signature="4211:4276" ph="/// Called before each iteration ... " />
+            <marker date="1634736365000" expanded="true" signature="4322:4386" ph="/// Called after each iteration ... " />
+            <marker date="1634736365000" expanded="true" signature="4433:4510" ph="/// Called before applying bend constraints. ... " />
+            <marker date="1634736365000" expanded="true" signature="4548:4617" ph="/// Called after updating the solver ... " />
+            <marker date="1634736365000" expanded="true" signature="4657:4793" ph="/// Called when storing default local state (the state that FixTransforms will reset the hierarchy to). ... " />
+            <marker date="1634736365000" expanded="true" signature="4846:4962" ph="/// Called when the bones used by the solver will reset to the default local state. ... " />
+            <marker date="1634736365000" expanded="true" signature="5084:5383" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="5426:5747" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="5788:6203" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="5853:5888" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="6242:6964" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="6274:6451" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7004:7877" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7093:7252" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7589:7640" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7682:7795" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7912:9305" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="7957:9015" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="8017:9010" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="8238:8502" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="8633:8949" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="9355:9433" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="9472:9798" ph="{...}" />
+            <marker date="1634736365000" expanded="true" signature="9560:9695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5232">
+          <caret line="328" column="21" selection-start-line="328" selection-start-column="21" selection-end-line="328" selection-end-column="21" />
+          <folding>
+            <marker date="1634736330000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736330000" expanded="true" signature="75:12909" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="79:157" ph="/// The base abstract class for all %IK solvers ... " />
+            <marker date="1634736330000" expanded="true" signature="213:12907" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="224:11012" ph="Main Interface" />
+            <marker date="1634736330000" expanded="true" signature="307:393" ph="/// Determines whether this instance is valid or not. ... " />
+            <marker date="1634736330000" expanded="true" signature="418:489" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="493:629" ph="/// Determines whether this instance is valid or not. If returns false, also fills in an error message. ... " />
+            <marker date="1634736330000" expanded="true" signature="687:838" ph="/// Initiate the solver with specified root Transform. Use only if this %IKSolver is not a member of an %IK compo ... " />
+            <marker date="1634736330000" expanded="true" signature="878:1372" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="1164:1221" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="1378:1589" ph="/// Updates the %IK solver. Use only if this %IKSolver is not a member of an %IK component or the %IK component h ... " />
+            <marker date="1634736330000" expanded="true" signature="1613:1867" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="1873:1927" ph="/// The %IK position. ... " />
+            <marker date="1634736330000" expanded="true" signature="2044:2140" ph="/* The %IK position weight or the master weight of the solver. ... */" />
+            <marker date="1634736330000" expanded="true" signature="2202:2376" ph="/// Gets the %IK position. NOTE: You are welcome to read IKPosition directly, this method is here only to match t ... " />
+            <marker date="1634736330000" expanded="true" signature="2418:2445" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="2451:2624" ph="/// Sets the %IK position. NOTE: You are welcome to set IKPosition directly, this method is here only to match th ... " />
+            <marker date="1634736330000" expanded="true" signature="2671:2702" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="2708:2895" ph="/// Gets the %IK position weight. NOTE: You are welcome to read IKPositionWeight directly, this method is here on ... " />
+            <marker date="1634736330000" expanded="true" signature="2933:2966" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="2972:3158" ph="/// Sets the %IK position weight. NOTE: You are welcome to set IKPositionWeight directly, this method is here onl ... " />
+            <marker date="1634736330000" expanded="true" signature="3207:3263" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="3269:3330" ph="/// Gets the root Transform. ... " />
+            <marker date="1634736330000" expanded="true" signature="3360:3381" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="3391:3527" ph="/// Gets a value indicating whether this &lt;see cref=&quot;IKSolver&quot;/&gt; has successfully initiated. ... " />
+            <marker date="1634736330000" expanded="true" signature="3583:3659" ph="/// Gets all the points used by the solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="3713:3794" ph="/// Gets the point with the specified Transform. ... " />
+            <marker date="1634736330000" expanded="true" signature="3862:3966" ph="/// Fixes all the Transforms used by the solver to their initial state. ... " />
+            <marker date="1634736330000" expanded="true" signature="4010:4111" ph="/// Stores the default local state for the bones used by the solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="4166:4281" ph="/// The most basic element type in the %IK chain that all other types extend from. ... " />
+            <marker date="1634736330000" expanded="true" signature="4327:6448" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="4333:4386" ph="/// The transform. ... " />
+            <marker date="1634736330000" expanded="true" signature="4421:4498" ph="/// The weight of this bone in the solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="4550:4624" ph="/// Virtual position in the %IK solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="4662:4736" ph="/// Virtual rotation in the %IK solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="4799:4882" ph="/// The default local position of the Transform. ... " />
+            <marker date="1634736330000" expanded="true" signature="4926:5009" ph="/// The default local rotation of the Transform. ... " />
+            <marker date="1634736330000" expanded="true" signature="5057:5140" ph="/// Stores the default local state of the point. ... " />
+            <marker date="1634736330000" expanded="true" signature="5181:5291" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="5296:5382" ph="/// Fixes the transform to its default local state. ... " />
+            <marker date="1634736330000" expanded="true" signature="5413:5629" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="5634:5717" ph="/// Updates the solverPosition (in world space). ... " />
+            <marker date="1634736330000" expanded="true" signature="5756:5803" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="5808:5891" ph="/// Updates the solverPosition (in local space). ... " />
+            <marker date="1634736330000" expanded="true" signature="5935:5987" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="5992:6084" ph="/// Updates the solverPosition/Rotation (in world space). ... " />
+            <marker date="1634736330000" expanded="true" signature="6120:6208" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="6213:6305" ph="/// Updates the solverPosition/Rotation (in local space). ... " />
+            <marker date="1634736330000" expanded="true" signature="6346:6444" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="6454:6582" ph="/// %Bone type of element in the %IK chain. Used in the case of skeletal Transform hierarchies. ... " />
+            <marker date="1634736330000" expanded="true" signature="6634:9479" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="6643:6705" ph="/// The length of the bone. ... " />
+            <marker date="1634736330000" expanded="true" signature="6733:6796" ph="/// The sqr mag of the bone. ... " />
+            <marker date="1634736330000" expanded="true" signature="6824:6895" ph="/// Local axis to target/child bone. ... " />
+            <marker date="1634736330000" expanded="true" signature="6944:7052" ph="/// Gets the rotation limit component from the Transform if there is any. ... " />
+            <marker date="1634736330000" expanded="true" signature="7091:7384" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="7101:7302" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="7311:7379" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="7393:7463" ph="/* Swings the Transform's axis towards the swing target ... */" />
+            <marker date="1634736330000" expanded="true" signature="7525:7859" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="7688:7758" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="7960:8471" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="8162:8300" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="8212:8281" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="8353:8466" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="8476:8567" ph="/* Swings the Transform's axis towards the swing target on the XY plane only ... */" />
+            <marker date="1634736330000" expanded="true" signature="8631:9024" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="9032:9087" ph="/* Moves the bone to the solver position ... */" />
+            <marker date="1634736330000" expanded="true" signature="9125:9172" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="9238:9276" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="9332:9396" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="9485:9616" ph="/// %Node type of element in the %IK chain. Used in the case of mixed/non-hierarchical %IK systems ... " />
+            <marker date="1634736330000" expanded="true" signature="9668:10300" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="9677:9739" ph="/// Distance to child node. ... " />
+            <marker date="1634736330000" expanded="true" signature="9767:9835" ph="/// The effector position weight. ... " />
+            <marker date="1634736330000" expanded="true" signature="9879:9947" ph="/// The effector rotation weight. ... " />
+            <marker date="1634736330000" expanded="true" signature="9991:10046" ph="/// Position offset. ... " />
+            <marker date="1634736330000" expanded="true" signature="10138:10176" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="10232:10296" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="10304:10372" ph="/// Delegates solver update events. ... " />
+            <marker date="1634736330000" expanded="true" signature="10416:10487" ph="/// Delegates solver iteration events. ... " />
+            <marker date="1634736330000" expanded="true" signature="10540:10613" ph="/// Called before initiating the solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="10655:10727" ph="/// Called after initiating the solver. ... " />
+            <marker date="1634736330000" expanded="true" signature="10770:10830" ph="/// Called before updating. ... " />
+            <marker date="1634736330000" expanded="true" signature="10870:10943" ph="/// Called after writing the solved pose ... " />
+            <marker date="1634736330000" expanded="true" signature="11245:11287" ph="{...}" />
+            <marker date="1634736330000" expanded="false" signature="11291:12904" ph="Class Methods" />
+            <marker date="1634736330000" expanded="true" signature="11316:11407" ph="/// Checks if an array of objects contains any duplicates. ... " />
+            <marker date="1634736330000" expanded="true" signature="11470:11684" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="11514:11664" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="11562:11659" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="11688:11746" ph="/* Make sure the bones are in valid Hierarchy ... */" />
+            <marker date="1634736330000" expanded="true" signature="11808:12055" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="11852:12035" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="12004:12030" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="12192:12876" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="12261:12385" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="12432:12850" ph="{...}" />
+            <marker date="1634736330000" expanded="true" signature="12464:12778" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKEffector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2011">
+          <caret line="163" column="52" selection-start-line="163" selection-start-column="52" selection-end-line="163" selection-end-column="52" />
+          <folding>
+            <marker date="1634736302000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736302000" expanded="true" signature="75:11444" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="79:164" ph="///  Effector for manipulating node based %IK solvers. ... " />
+            <marker date="1634736302000" expanded="true" signature="213:11442" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="220:2241" ph="Main Interface" />
+            <marker date="1634736302000" expanded="true" signature="246:302" ph="/// Gets the main node. ... " />
+            <marker date="1634736302000" expanded="true" signature="359:417" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="421:499" ph="/// The node transform used by this effector. ... " />
+            <marker date="1634736302000" expanded="true" signature="527:648" ph="/// The target Transform (optional, you can use just the position and rotation instead). ... " />
+            <marker date="1634736302000" expanded="true" signature="678:735" ph="/// The position weight. ... " />
+            <marker date="1634736302000" expanded="true" signature="787:844" ph="/// The rotation weight. ... " />
+            <marker date="1634736302000" expanded="true" signature="896:970" ph="/// The effector position in world space. ... " />
+            <marker date="1634736302000" expanded="true" signature="1015:1118" ph="/// The effector rotation relative to default rotation in world space. ... " />
+            <marker date="1634736302000" expanded="true" signature="1173:1331" ph="/// The position offset in world space. positionOffset will be reset to Vector3.zero each frame after the solver  ... " />
+            <marker date="1634736302000" expanded="true" signature="1367:1446" ph="/// Is this the last effector of a node chain? ... " />
+            <marker date="1634736302000" expanded="true" signature="1499:1607" ph="/// If false, child nodes will be ignored by this effector (if it has any). ... " />
+            <marker date="1634736302000" expanded="true" signature="1649:1794" ph="/// Keeps the node position relative to the triangle defined by the plane bones (applies only to end-effectors). ... " />
+            <marker date="1634736302000" expanded="true" signature="1863:1955" ph="/// Pins the effector to the animated position of its bone. ... " />
+            <marker date="1634736302000" expanded="true" signature="2024:2212" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3425:3484" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3490:3557" ph="/* Determines whether this IKEffector is valid or not. ... */" />
+            <marker date="1634736302000" expanded="true" signature="3617:4921" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3641:3708" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3751:3889" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3930:4039" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="3951:4034" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4083:4264" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4121:4259" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4332:4476" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4544:4688" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4756:4900" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="4925:4982" ph="/* Initiate the effector, set default values ... */" />
+            <marker date="1634736302000" expanded="true" signature="5031:6080" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="5402:5509" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="5636:6047" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="5757:6015" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="5880:6009" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="6086:6119" ph="/* Clear node offset ... */" />
+            <marker date="1634736302000" expanded="true" signature="6171:6387" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="6292:6383" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="6391:6456" ph="/* Set the position and rotation to match the target ... */" />
+            <marker date="1634736302000" expanded="true" signature="6485:6583" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="6589:6632" ph="/* Presolving, applying offset ... */" />
+            <marker date="1634736302000" expanded="true" signature="6683:8895" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="8371:8634" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="8421:8629" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="8721:8867" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="8899:8944" ph="/* Called after writing the pose ... */" />
+            <marker date="1634736302000" expanded="true" signature="8973:9012" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="9016:9067" ph="/* Rotation of plane nodes in the solver ... */" />
+            <marker date="1634736302000" expanded="true" signature="9131:9722" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="9486:9654" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="9726:9774" ph="/* Manipulating node solverPosition ... */" />
+            <marker date="1634736302000" expanded="true" signature="9821:10453" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="9843:9959" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="10196:10449" ph="{...}" />
+            <marker date="1634736302000" expanded="true" signature="10457:10516" ph="/* Gets the starting position of the iteration ... */" />
+            <marker date="1634736302000" expanded="true" signature="10608:11439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/IK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1634736472000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736472000" expanded="true" signature="75:1186" ph="{...}" />
+            <marker date="1634736472000" expanded="true" signature="79:160" ph="/// Base abstract class for %IK solver components. ... " />
+            <marker date="1634736472000" expanded="true" signature="202:1184" ph="{...}" />
+            <marker date="1634736472000" expanded="false" signature="209:391" ph="Main Interface" />
+            <marker date="1634736472000" expanded="true" signature="237:318" ph="/// Gets the %IK component's solver as IKSolver. ... " />
+            <marker date="1634736472000" expanded="true" signature="397:553" ph="/* Updates the solver. If you need full control of the execution order of your IK solvers, disable this script an ... */" />
+            <marker date="1634736472000" expanded="true" signature="595:720" ph="{...}" />
+            <marker date="1634736472000" expanded="true" signature="726:766" ph="/* Initiates the %IK solver ... */" />
+            <marker date="1634736472000" expanded="true" signature="810:897" ph="{...}" />
+            <marker date="1634736472000" expanded="true" signature="941:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Components/FullBodyBipedIK.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-992">
+          <caret line="56" column="36" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="36" />
+          <folding>
+            <marker date="1634736420000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736420000" expanded="true" signature="75:6206" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="79:167" ph="/// Full Body %IK System designed specifically for bipeds ... " />
+            <marker date="1634736420000" expanded="true" signature="381:6204" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="488:574" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="696:832" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="963:1039" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="1180:1256" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="1352:1433" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="1559:1693" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="1697:1853" ph="/// The biped definition. Don't change refences directly in runtime, use SetReferences(BipedReferences references ... " />
+            <marker date="1634736420000" expanded="true" signature="1920:1986" ph="/// The FullBodyBiped %IK solver. ... " />
+            <marker date="1634736420000" expanded="true" signature="2059:2308" ph="/// Sets the solver to new biped references. ... " />
+            <marker date="1634736420000" expanded="true" signature="2385:2477" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="2520:2555" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="2559:2664" ph="/// Checks the biped references for errors. Returns true if error found. ... " />
+            <marker date="1634736420000" expanded="true" signature="2720:3608" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="2922:3036" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3073:3171" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3221:3583" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3308:3408" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3359:3402" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3432:3578" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="3614:3803" ph="/// Check for possible warnings with the biped references setup. Returns true if warning found. The solver can st ... " />
+            <marker date="1634736420000" expanded="true" signature="3863:5640" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="4348:4853" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="5134:5618" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="5746:5798" ph="{...}" />
+            <marker date="1634736420000" expanded="true" signature="5902:6201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/FBIKChain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2144">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1634736453000" expanded="false" signature="6:58" ph="..." />
+            <marker date="1634736453000" expanded="true" signature="89:18094" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="93:165" ph="/// A chain of bones in IKSolverFullBody. ... " />
+            <marker date="1634736453000" expanded="true" signature="213:18092" ph="{...}" />
+            <marker date="1634736453000" expanded="false" signature="220:5003" ph="Main Interface" />
+            <marker date="1634736453000" expanded="true" signature="248:339" ph="/// Linear constraint between child chains of a FBIKChain. ... " />
+            <marker date="1634736453000" expanded="true" signature="395:3156" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="401:460" ph="/// The push elasticity. ... " />
+            <marker date="1634736453000" expanded="true" signature="501:560" ph="/// The pull elasticity. ... " />
+            <marker date="1634736453000" expanded="true" signature="601:655" ph="/// The first bone. ... " />
+            <marker date="1634736453000" expanded="true" signature="704:759" ph="/// The second bone. ... " />
+            <marker date="1634736453000" expanded="true" signature="1205:1234" ph="/* Constructor ... */" />
+            <marker date="1634736453000" expanded="true" signature="1349:1487" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="1495:1538" ph="/* Initiating the constraint ... */" />
+            <marker date="1634736453000" expanded="true" signature="1588:1717" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="1725:1815" ph="/* Updating nominal distance because it might have changed in the animation ... */" />
+            <marker date="1634736453000" expanded="true" signature="1867:2321" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="2113:2253" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="2329:2369" ph="/* Solving the constraint ... */" />
+            <marker date="1634736453000" expanded="true" signature="2416:3152" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="2768:2889" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="3206:3245" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="3249:3368" ph="/// The pin weight. If closer to 1, the chain will be less influenced by child chains. ... " />
+            <marker date="1634736453000" expanded="true" signature="3409:3485" ph="/// The weight of pulling the parent chain. ... " />
+            <marker date="1634736453000" expanded="true" signature="3532:3664" ph="/// The weight of the end-effector pushing the shoulder/thigh when the end-effector is close to it. ... " />
+            <marker date="1634736453000" expanded="true" signature="3706:3826" ph="/// The amount of push force transferred to the parent (from hand or foot to the body). ... " />
+            <marker date="1634736453000" expanded="true" signature="3875:3991" ph="/// Only used in 3 segmented chains, pulls the first node closer to the third node. ... " />
+            <marker date="1634736453000" expanded="true" signature="4041:4146" ph="/// Smoothing the effect of the Reach with the expense of some accuracy. ... " />
+            <marker date="1634736453000" expanded="true" signature="4208:4278" ph="/// Smoothing the effect of the Push. ... " />
+            <marker date="1634736453000" expanded="true" signature="4339:4400" ph="/// The nodes in this chain. ... " />
+            <marker date="1634736453000" expanded="true" signature="4458:4512" ph="/// The child chains. ... " />
+            <marker date="1634736453000" expanded="true" signature="4553:4699" ph="/// The child constraints are used for example for fixing the distance between left upper arm and right upper arm ... " />
+            <marker date="1634736453000" expanded="true" signature="4772:4907" ph="/// Gets the bend constraint (if this chain has 3 segments). ... " />
+            <marker date="1634736453000" expanded="true" signature="5425:5533" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="5539:5598" ph="/* Set nodes to the following bone transforms. ... */" />
+            <marker date="1634736453000" expanded="true" signature="5657:5826" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="5763:5822" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="5879:6002" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="5923:5984" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6006:6058" ph="/* Check if this chain is valid or not. ... */" />
+            <marker date="1634736453000" expanded="true" signature="6101:6377" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6129:6200" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6274:6353" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6383:6420" ph="/* Initiating the chain. ... */" />
+            <marker date="1634736453000" expanded="true" signature="6469:7081" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6538:6595" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="6858:7010" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="7085:7126" ph="/* Before updating the chain ... */" />
+            <marker date="1634736453000" expanded="true" signature="7190:8649" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="7265:7348" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="7432:8645" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="7594:8095" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="7955:8089" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="8387:8474" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="8783:9728" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="8882:9224" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="9052:9219" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="9274:9513" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="9488:9508" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="9541:9724" ph="{...}" />
+            <marker date="1634736453000" expanded="false" signature="9732:15720" ph="Recursive Methods" />
+            <marker date="1634736453000" expanded="true" signature="9763:9793" ph="/* Reaching limbs ... */" />
+            <marker date="1634736453000" expanded="true" signature="9839:10854" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="10527:10659" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="10858:10911" ph="/* End-effectors pushing the first nodes ... */" />
+            <marker date="1634736453000" expanded="true" signature="10959:12026" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="11075:11171" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="11788:11900" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="12030:12162" ph="/* Applying trigonometric IK solver on the 3 segmented chains to relieve tension from the solver and increase acc ... */" />
+            <marker date="1634736453000" expanded="true" signature="12258:13404" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="13408:13455" ph="/* Stage 1 of the FABRIK algorithm ... */" />
+            <marker date="1634736453000" expanded="true" signature="13502:14684" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="13714:13790" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="14072:14538" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="14204:14379" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="14690:14738" ph="/* Stage 2 of the FABRIK algorithm. ... */" />
+            <marker date="1634736453000" expanded="true" signature="14803:15258" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="15024:15095" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="15262:15360" ph="/* Iterating child constraints and child chains to make sure they are not conflicting ... */" />
+            <marker date="1634736453000" expanded="true" signature="15423:15688" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="15537:15684" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="15724:15795" ph="/* Interpolates the joint position to match the bone's length ... */" />
+            <marker date="1634736453000" expanded="true" signature="15873:15930" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="15936:16040" ph="/* Calculates the bend direction based on the law of cosines (from IKSolverTrigonometric). ... */" />
+            <marker date="1634736453000" expanded="true" signature="16147:16469" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="16473:16517" ph="/* Satisfying child constraints ... */" />
+            <marker date="1634736453000" expanded="true" signature="16580:16685" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="16635:16681" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="16689:16735" ph="/* Solve simple linear constraint ... */" />
+            <marker date="1634736453000" expanded="true" signature="16848:17160" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="17166:17202" ph="/* FABRIK Forward reach ... */" />
+            <marker date="1634736453000" expanded="true" signature="17248:17565" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="17405:17561" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="17571:17608" ph="/* FABRIK Backward reach ... */" />
+            <marker date="1634736453000" expanded="true" signature="17656:18089" ph="{...}" />
+            <marker date="1634736453000" expanded="true" signature="17956:18085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKMappingLimb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1070">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1634736477000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1634736477000" expanded="true" signature="75:6039" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="79:180" ph="/// Maps a 3-segmented bone hierarchy to a node chain of an %IK Solver ... " />
+            <marker date="1634736477000" expanded="true" signature="243:6037" ph="{...}" />
+            <marker date="1634736477000" expanded="false" signature="250:2933" ph="Main Interface" />
+            <marker date="1634736477000" expanded="true" signature="276:331" ph="/// Limb Bone Map type ... " />
+            <marker date="1634736477000" expanded="true" signature="382:427" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="431:504" ph="/// The optional parent bone (clavicle). ... " />
+            <marker date="1634736477000" expanded="true" signature="538:611" ph="/// The first bone (upper arm or thigh). ... " />
+            <marker date="1634736477000" expanded="true" signature="640:711" ph="/// The second bone (forearm or calf). ... " />
+            <marker date="1634736477000" expanded="true" signature="740:807" ph="/// The third bone (hand or foot). ... " />
+            <marker date="1634736477000" expanded="true" signature="836:951" ph="/// The weight of maintaining the third bone's rotation as it was in the animation ... " />
+            <marker date="1634736477000" expanded="true" signature="1011:1167" ph="/// The weight of mapping the limb to its IK pose. This can be useful if you want to disable the effect of IK for ... " />
+            <marker date="1634736477000" expanded="true" signature="1238:1380" ph="/// Disable this to maintain original sampled rotations of the limb bones relative to each other. ... " />
+            <marker date="1634736477000" expanded="true" signature="1471:1566" ph="/// Determines whether this IKMappingLimb is valid ... " />
+            <marker date="1634736477000" expanded="true" signature="1641:1916" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="1920:1997" ph="/// Gets the bone map of the specified bone. ... " />
+            <marker date="1634736477000" expanded="true" signature="2047:2349" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="2068:2345" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="2353:2471" ph="/// Makes the limb mapped to the specific local directions of the bones. Added in 0.3 ... " />
+            <marker date="1634736477000" expanded="true" signature="2535:2902" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="3201:3252" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="3359:3466" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="3509:3695" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="3729:3894" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="3900:3947" ph="/* Initiating and setting defaults ... */" />
+            <marker date="1634736477000" expanded="true" signature="4005:4773" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="4779:4840" ph="/* Presolving the bones and maintaining rotation ... */" />
+            <marker date="1634736477000" expanded="true" signature="4866:5156" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="5222:6034" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="5336:5633" ph="{...}" />
+            <marker date="1634736477000" expanded="true" signature="5366:5545" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/IK Solvers/IKSolverFullBodyBiped.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3836">
+          <caret line="343" column="52" selection-start-line="343" selection-start-column="43" selection-end-line="343" selection-end-column="52" />
+          <folding>
+            <marker date="1634736425000" expanded="false" signature="6:58" ph="..." />
+            <marker date="1634736425000" expanded="true" signature="89:20292" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="93:162" ph="/// Full body biped IK effector types. ... " />
+            <marker date="1634736425000" expanded="true" signature="221:342" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="345:411" ph="/// Full body biped IK chain types. ... " />
+            <marker date="1634736425000" expanded="true" signature="467:516" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="519:598" ph="/// FBIK solver specialized to biped characters. ... " />
+            <marker date="1634736425000" expanded="true" signature="677:20290" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="684:15854" ph="Main Interface" />
+            <marker date="1634736425000" expanded="true" signature="712:778" ph="/// The central root node (body). ... " />
+            <marker date="1634736425000" expanded="true" signature="810:882" ph="/// The stiffness of spine constraints. ... " />
+            <marker date="1634736425000" expanded="true" signature="941:1059" ph="/// Weight of hand effectors pulling the body vertically (relative to root rotation). ... " />
+            <marker date="1634736425000" expanded="true" signature="1121:1241" ph="/// Weight of hand effectors pulling the body horizontally (relative to root rotation). ... " />
+            <marker date="1634736425000" expanded="true" signature="1306:1366" ph="/// Gets the body effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="1461:1530" ph="/// Gets the left shoulder effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="1641:1711" ph="/// Gets the right shoulder effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="1824:1890" ph="/// Gets the left thigh effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="1995:2062" ph="/// Gets the right thigh effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="2169:2234" ph="/// Gets the left hand effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="2337:2403" ph="/// Gets the right hand effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="2508:2573" ph="/// Gets the left foot effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="2676:2742" ph="/// Gets the right foot effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="2850:2911" ph="/// Gets the left arm chain. ... " />
+            <marker date="1634736425000" expanded="true" signature="2974:3036" ph="/// Gets the right arm chain. ... " />
+            <marker date="1634736425000" expanded="true" signature="3100:3161" ph="/// Gets the left leg chain. ... " />
+            <marker date="1634736425000" expanded="true" signature="3224:3286" ph="/// Gets the right leg chain. ... " />
+            <marker date="1634736425000" expanded="true" signature="3351:3417" ph="/// Gets the left arm IK mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="3493:3560" ph="/// Gets the right arm IK mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="3637:3703" ph="/// Gets the left leg IK mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="3779:3846" ph="/// Gets the right leg IK mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="3923:3985" ph="/// Gets the head IK mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="4059:4139" ph="/// Sets chain weights for the specified chain. ... " />
+            <marker date="1634736425000" expanded="true" signature="4222:4285" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="4291:4377" ph="/// Sets effector weights for the specified effector. ... " />
+            <marker date="1634736425000" expanded="true" signature="4487:4650" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="4656:4719" ph="///  Gets the chain of a limb. ... " />
+            <marker date="1634736425000" expanded="true" signature="4770:5025" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="4785:5005" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="5031:5111" ph="///  Gets the chain of the specified effector.  ... " />
+            <marker date="1634736425000" expanded="true" signature="5172:5743" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="5194:5723" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="5749:5814" ph="///  Gets the effector of type.  ... " />
+            <marker date="1634736425000" expanded="true" signature="5879:6486" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="5901:6466" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="6490:6555" ph="///  Gets the effector of type.  ... " />
+            <marker date="1634736425000" expanded="true" signature="6613:6884" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="6628:6864" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="6890:6962" ph="/// Gets the limb mapping for the limb. ... " />
+            <marker date="1634736425000" expanded="true" signature="7027:7314" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="7046:7294" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="7318:7399" ph="/// Gets the limb mapping for the effector type. ... " />
+            <marker date="1634736425000" expanded="true" signature="7470:8053" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="7492:8049" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8059:8119" ph="/// Gets the spine mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="8162:8191" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8197:8256" ph="/// Gets the head mapping. ... " />
+            <marker date="1634736425000" expanded="true" signature="8297:8329" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8335:8407" ph="/// Gets the bend constraint of a limb. ... " />
+            <marker date="1634736425000" expanded="true" signature="8477:8795" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8495:8775" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8850:9450" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="8930:9020" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="9299:9429" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="9454:9740" ph="/// Sets up the solver to BipedReferences and reinitiates (if in runtime). ... " />
+            <marker date="1634736425000" expanded="true" signature="9826:14257" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="10084:10157" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="10112:10152" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="10783:10954" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="12137:12495" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="12685:12736" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="12770:12850" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="13120:13362" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="13229:13280" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="13496:13742" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="13538:13633" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="14261:14326" ph="/* Tries to guess which bone should be the root node ... */" />
+            <marker date="1634736425000" expanded="true" signature="14400:15376" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="15011:15329" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="15227:15324" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="15380:15508" ph="/// Sets the bend directions of the limbs to the local axes specified by BipedLimbOrientations. ... " />
+            <marker date="1634736425000" expanded="true" signature="15568:15825" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="15966:16067" ph="/* Sets the bend direction of a limb to the local axes specified by the LimbOrientation. ... */" />
+            <marker date="1634736425000" expanded="true" signature="16183:16889" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="16300:16592" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="16962:17143" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="17219:17403" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="17478:17567" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="17606:17982" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="17986:18033" ph="/* Pulling the body with the hands ... */" />
+            <marker date="1634736425000" expanded="true" signature="18060:18437" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="18191:18433" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="18441:18494" ph="/* Get pull offset of the body effector. ... */" />
+            <marker date="1634736425000" expanded="true" signature="18529:18821" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="18825:18866" ph="/* Get pull offset of a hand ... */" />
+            <marker date="1634736425000" expanded="true" signature="18953:19376" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="19454:20137" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="19479:19819" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="20029:20094" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="20177:20286" ph="{...}" />
+            <marker date="1634736425000" expanded="true" signature="20203:20260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Script/IkManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <marker date="1678886275421" expanded="false" signature="6:118" ph="..." />
+            <marker date="1678886275421" expanded="true" signature="158:2380" ph="{...}" />
+            <marker date="1678886275421" expanded="false" signature="162:472" ph="Instance" />
+            <marker date="1678886275421" expanded="true" signature="258:455" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="276:449" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="321:408" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="580:621" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="650:1162" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="1191:1812" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="1839:2375" ph="{...}" />
+            <marker date="1678886275421" expanded="true" signature="2419:2570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Controller Scripts/ExerciseCharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+          <folding>
+            <marker date="1678891126123" expanded="false" signature="6:104" ph="..." />
+            <marker date="1678891126123" expanded="true" signature="162:2020" ph="{...}" />
+            <marker date="1678891126123" expanded="false" signature="169:531" ph="Instance" />
+            <marker date="1678891126123" expanded="true" signature="300:515" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="318:509" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="363:468" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="790:829" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="900:1041" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1085:1183" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1216:1569" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1279:1563" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1347:1422" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1480:1553" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1597:2017" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1678:1734" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1813:1870" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="1954:2011" ph="{...}" />
+            <marker date="1678891126123" expanded="true" signature="2044:2140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/LevelController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <marker date="1678883333330" expanded="false" signature="7:59" ph="..." />
+            <marker date="1678883333330" expanded="true" signature="105:5824" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1027:1065" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1090:1397" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1439:3013" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1507:1576" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1589:1659" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="1723:1981" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="2046:2295" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="2363:2582" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="3047:3853" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="3110:3178" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="3191:3847" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="3894:4425" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="3965:4419" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="4226:4347" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="4470:5167" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="4862:5006" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="5060:5161" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="5203:5503" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="5528:5605" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="5630:5709" ph="{...}" />
+            <marker date="1678883333330" expanded="true" signature="5737:5822" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
